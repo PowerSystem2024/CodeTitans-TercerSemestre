@@ -27,3 +27,13 @@ const orden2 = new Orden();
 orden2.agregarComputadora(computadora1);
 orden2.agregarComputadora(computadora2);
 orden2.mostrarOrden();
+
+
+
+// Probando la función imprimir
+Orden.imprimir(raton1); // Es una instancia de la clase Raton
+Orden.imprimir(teclado1); // Es una instancia de la clase Teclado
+Orden.imprimir(monitor1); // Es una instancia de la clase Monitor
+Orden.imprimir(computadora1); // Es una instancia de la clase Computadora
+Orden.imprimir(orden1); // Es una instancia de la clase Orden
+Orden.imprimir(orden2); // Es una instancia de la clase Orden
