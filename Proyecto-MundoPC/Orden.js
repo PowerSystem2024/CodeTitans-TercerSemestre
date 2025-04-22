@@ -1,3 +1,9 @@
+
+const Raton = require("./Raton");
+const Teclado = require("./Teclado");
+const Monitor = require("./Monitor");
+const Computadora = require("./Computadora");
+
 //Clase contenedora de computadoras que representa una orden de compra
 
 class Orden {
@@ -41,7 +47,31 @@ class Orden {
     } else {
       console.log(ordenStr);
     }
+  
   }
+  // Método estático para aplicar polimorfismo
+  static imprimir(tipo) {
+    console.log(tipo.toString());
+    if (tipo instanceof Raton) {
+      console.log("Es una instancia de la clase Raton");
+    } else if (tipo instanceof Teclado) {
+      console.log("Es una instancia de la clase Teclado");
+    } else if (tipo instanceof Monitor) {
+      console.log("Es una instancia de la clase Monitor");
+    } else if (tipo instanceof Computadora) {
+      console.log("Es una instancia de la clase Computadora");
+    } else if (tipo instanceof Orden) {
+      console.log("Es una instancia de la clase Orden");
+    } else if (tipo instanceof Object) {
+      console.log("Es una instancia genérica de la clase Object");
+    }
+  }
+
 }
 
+// En el contexto del polimorfismo, la clase Orden no es directamente un ejemplo de polimorfismo
+//  en sí misma, pero interactúa con el polimorfismo al trabajar con objetos de diferentes clases 
+// (Raton, Teclado, Monitor, Computadora) de manera uniforme. Esto se logra mediante el uso del
+//  método imprimir (ya sea estático o de instancia) que utiliza el operador instanceof para 
+// determinar el tipo de objeto y realizar acciones específicas.
 module.exports = Orden;
