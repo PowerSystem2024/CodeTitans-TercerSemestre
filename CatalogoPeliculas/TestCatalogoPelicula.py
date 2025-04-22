@@ -1,5 +1,5 @@
 from Dominio.Peliculas import Peliculas
-from CatalogoPelicula import CatalogoPelicula
+from Servicio.CatalogoPelicula import CatalogoPelicula
 
 def menu():
     opcion = -1
