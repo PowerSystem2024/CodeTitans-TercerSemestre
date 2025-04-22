@@ -1,5 +1,6 @@
-from Dominio.Peliculas import Peliculas
-from Servicio.CatalogoPelicula import CatalogoPelicula
+from Dominio.Init import Pelicula
+#from Dominio.Peliculas import Pelicula
+from Servicio.CatalogoPelicula import CatalogoPeliculas
 
 def menu():
     opcion = -1
@@ -13,12 +14,12 @@ def menu():
             opcion = int(input("Selecciona una opción (1-4): "))
             if opcion == 1:
                 nombre = input("Nombre de la película: ")
-                pelicula = Peliculas(nombre)
-                CatalogoPelicula.agregar_pelicula(pelicula)
+                pelicula = Pelicula(nombre)
+                CatalogoPeliculas.agregar_pelicula(pelicula)
             elif opcion == 2:
-                CatalogoPelicula.listar_peliculas()
+                CatalogoPeliculas.listar_peliculas()
             elif opcion == 3:
-                CatalogoPelicula.eliminar()
+                CatalogoPeliculas.eliminar()
             elif opcion == 4:
                 print("¡Hasta luego!")
             else:
