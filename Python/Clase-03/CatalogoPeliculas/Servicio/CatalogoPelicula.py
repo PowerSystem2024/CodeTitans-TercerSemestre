@@ -1,5 +1,6 @@
 import os
 
+
 class CatalogoPeliculas:
     ruta_archivo = "peliculas.txt"
 

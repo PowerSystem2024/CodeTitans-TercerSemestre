@@ -1,5 +1,9 @@
 from Dominio.Peliculas import Peliculas
+<<<<<<< HEAD:CatalogoPeliculas/TestCatalogoPelicula.py
 from Servicio.CatalogoPelicula import CatalogoPelicula
+=======
+from Servicio.CatalogoPelicula import CatalogoPeliculas
+>>>>>>> 0ed5300dfe78de5d0f90f3a79fd69ee1b5fbc0e8:Python/Clase-03/CatalogoPeliculas/TestCatalogoPelicula.py
 
 def menu():
     opcion = -1
@@ -14,11 +18,11 @@ def menu():
             if opcion == 1:
                 nombre = input("Nombre de la película: ")
                 pelicula = Peliculas(nombre)
-                CatalogoPelicula.agregar_pelicula(pelicula)
+                CatalogoPeliculas.agregar_pelicula(pelicula)
             elif opcion == 2:
-                CatalogoPelicula.listar_peliculas()
+                CatalogoPeliculas.listar_peliculas()
             elif opcion == 3:
-                CatalogoPelicula.eliminar()
+                CatalogoPeliculas.eliminar()
             elif opcion == 4:
                 print("¡Hasta luego!")
             else:
