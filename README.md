@@ -26,7 +26,7 @@ Para este semestre, vamos a utilizar la metodología **Scrum** para organizar nu
 
 [**Nuestro proyecto Python**](https://github.com/PowerSystem2024/CodeTitans-IntegradorPython)
 
-![Logo3](./assets/py.jpg)
+![Logo3](./assets/Texto.png)
 
 [Nuestro Portafolio en Vue](https://codetitans-utn.netlify.app/)
 
