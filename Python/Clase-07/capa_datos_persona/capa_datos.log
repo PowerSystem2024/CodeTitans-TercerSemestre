@@ -1,0 +1,5 @@
+08:01:30 PM:DEBUG [persona.py:52] <__main__.persona object at 0x000000000367AF90>
+08:02:20 PM:DEBUG [persona.py:52] <__main__.persona object at 0x00000000036A8710>
+08:04:52 PM:DEBUG [persona.py:52] <__main__.persona object at 0x00000000036A8710>
+08:06:26 PM:DEBUG [persona.py:52] <__main__.persona object at 0x000000000367B140>
+08:06:26 PM:DEBUG [persona.py:55] <__main__.persona object at 0x000000000367B170>
