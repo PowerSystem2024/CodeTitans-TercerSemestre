@@ -1,3 +1,16 @@
+const readline = require("readline");
+
+// Crear una interfaz para leer la entrada del usuario
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+});
+
+// Función para calcular el número mínimo de movimientos (2^n - 1)
+const calcularMovimientos = (n) => {
+  return Math.pow(2, n) - 1;
+};
+
 // Función recursiva para resolver las Torres de Hanoi
 const torresHanoi = (n, origen, destino, auxiliar) => {
   // Solo si hay un disco, lo moveremos directamente
@@ -23,17 +36,42 @@ const resolverHanoi = (numDiscos) => {
   torresHanoi(numDiscos, "A", "C", "B");
   console.log("=".repeat(40));
   console.log("Problema resuelto!");
+  console.log(
+    "🔗 Se Puede testear esta solución en: https://www.mathsisfun.com/games/towerofhanoi.html"
+  );
+  console.log(
+    `\nNúmero mínimo de movimientos para ${numDiscos} discos: ${calcularMovimientos(
+      numDiscos
+    )}`
+  );
+
+  // Cerramos la interfaz después de resolver el problema
+  rl.close();
 };
 
-// Iniciamos con 3 movimientos, pero le podemos aumentar o restar
-resolverHanoi(3);
+// Solicitamos un entrada al usuario
+rl.question(
+  "¿Cuántos discos deseas usar para las Torres de Hanoi? ",
+  (respuesta) => {
+    const numDiscos = parseInt(respuesta);
+    resolverHanoi(numDiscos);
 
-// Función para calcular el número mínimo de movimientos
-const calcularMovimientos = (n) => {
-  //Usamos la libreria math con la funcion pow para calcular 2^n - 1
-  return Math.pow(2, n) - 1;
-};
+    // Validamos la entrada
+    if (isNaN(numDiscos) || numDiscos <= 0) {
+      console.log("Por favor, ingresa un número válido mayor a 0");
+      rl.close();
+      return;
+    }
 
-console.log(
-  `\nNúmero mínimo de movimientos para 3 discos: ${calcularMovimientos(3)}`
+    // Advertencia por si ingresan números grandes
+    if (numDiscos > 10) {
+      console.log(
+        `Advertencia: ${numDiscos} discos requerirán ${calcularMovimientos(
+          numDiscos
+        )} movimientos. Esto puede tomar mucho tiempo.`
+      );
+    }
+
+    resolverHanoi(numDiscos);
+  }
 );
