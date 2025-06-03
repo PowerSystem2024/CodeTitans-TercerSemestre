@@ -1,0 +1,182 @@
+11:26:07 AM:DEBUG [Persona.py:59] 
+        ID Persona: 1, 
+        Nombre: Juan, 
+        Apellido: Perez, 
+        Email: juan.perez@example.com"
+        
+11:32:19 AM:DEBUG [Persona.py:59] 
+        ID Persona: 1, 
+        Nombre: Juan, 
+        Apellido: Perez, 
+        Email: juan.perez@example.com"
+        
+11:32:19 AM:DEBUG [Persona.py:61] 
+        ID Persona: None, 
+        Nombre: Maria, 
+        Apellido: Lopez, 
+        Email: maria87@mail.com"
+        
+11:34:28 AM:DEBUG [Persona.py:59] 
+        ID Persona: 1, 
+        Nombre: Juan, 
+        Apellido: Perez, 
+        Email: juan.perez@example.com"
+        
+11:34:28 AM:DEBUG [Persona.py:61] 
+        ID Persona: None, 
+        Nombre: Maria, 
+        Apellido: Lopez, 
+        Email: maria87@mail.com"
+        
+11:34:28 AM:DEBUG [Persona.py:63] 
+        ID Persona: 1, 
+        Nombre: None, 
+        Apellido: None, 
+        Email: None"
+        
+12:15:15 PM:ERROR [conexion.py:38] Error al conectar a la base de datos: could not translate host name "('localhost'" to address: Host desconocido. 
+could not translate host name ")" to address: Host desconocido. 
+
+12:18:02 PM:ERROR [conexion.py:38] Error al conectar a la base de datos: invalid integer value "('5432'" for connection option "port"
+
+12:19:08 PM:ERROR [conexion.py:38] Error al conectar a la base de datos: could not translate host name "('localhost'" to address: Host desconocido. 
+could not translate host name ")" to address: Host desconocido. 
+
+12:19:39 PM:ERROR [conexion.py:38] Error al conectar a la base de datos: invalid integer value "('5432'" for connection option "port"
+
+12:24:20 PM:ERROR [conexion.py:52] Error al obtener el cursor: 'tuple' object has no attribute 'cursor'
+01:00:18 PM:DEBUG [conexion.py:35] Conexión a la base de datos test_bd exitosa.
+01:00:18 PM:DEBUG [conexion.py:49] Cursor obtenido exitosamente: <cursor object at 0x0000025631FAEEA0; closed: 0>
+01:00:18 PM:DEBUG [persona_dao.py:42] 
+        ID Persona: 1, 
+        Nombre: Jose Carlos, 
+        Apellido: Ramirez, 
+        Email: ramirezdev@example.com"
+        
+01:00:18 PM:DEBUG [persona_dao.py:42] 
+        ID Persona: 2, 
+        Nombre: Juan, 
+        Apellido: Pérez, 
+        Email: juan22@test.com"
+        
+01:00:18 PM:DEBUG [persona_dao.py:42] 
+        ID Persona: 7, 
+        Nombre: Maria, 
+        Apellido: Lopez, 
+        Email: maria22@test.com"
+        
+01:00:18 PM:DEBUG [persona_dao.py:42] 
+        ID Persona: 8, 
+        Nombre: Tomas, 
+        Apellido: Garcia, 
+        Email: tomas22@test.com"
+        
+01:00:18 PM:DEBUG [persona_dao.py:42] 
+        ID Persona: 10, 
+        Nombre: Juana, 
+        Apellido: Pérez, 
+        Email: juana14@test.com"
+        
+01:00:18 PM:DEBUG [persona_dao.py:42] 
+        ID Persona: 11, 
+        Nombre: Mariana, 
+        Apellido: Gonzalez, 
+        Email: mariana14@test.com"
+        
+01:00:18 PM:DEBUG [persona_dao.py:42] 
+        ID Persona: 12, 
+        Nombre: jorge, 
+        Apellido: Alonso Gomez, 
+        Email: alonsoad85@test.com"
+        
+01:00:18 PM:DEBUG [persona_dao.py:42] 
+        ID Persona: 13, 
+        Nombre: Alejo, 
+        Apellido: Alonso , 
+        Email: alonso8@test.com"
+        
+01:55:02 PM:DEBUG [conexion.py:35] Conexión a la base de datos test_bd exitosa.
+01:55:02 PM:DEBUG [conexion.py:49] Cursor obtenido exitosamente: <cursor object at 0x000001EDCAA8EDC0; closed: 0>
+01:55:03 PM:DEBUG [persona_dao.py:54] Persona actualizada: 
+        ID Persona: 6, 
+        Nombre: Leonardo, 
+        Apellido: Sanchez, 
+        Email: lsanchez@utn.com"
+        
+01:55:03 PM:DEBUG [persona_dao.py:71] Personas actualizadas: 0
+01:56:29 PM:DEBUG [conexion.py:35] Conexión a la base de datos test_bd exitosa.
+01:56:29 PM:DEBUG [conexion.py:49] Cursor obtenido exitosamente: <cursor object at 0x000001BD0B40EDC0; closed: 0>
+01:56:29 PM:DEBUG [persona_dao.py:54] Persona actualizada: 
+        ID Persona: 6, 
+        Nombre: Leonardo, 
+        Apellido: Sanchez, 
+        Email: lsanchez@utn.com"
+        
+01:56:29 PM:DEBUG [persona_dao.py:71] Personas actualizadas: 0
+02:22:34 PM:DEBUG [conexion.py:35] Conexión a la base de datos test_bd exitosa.
+02:22:34 PM:DEBUG [conexion.py:49] Cursor obtenido exitosamente: <cursor object at 0x00000271470AEDC0; closed: 0>
+02:22:34 PM:DEBUG [persona_dao.py:68] Persona actualizada: 
+        ID Persona: 6, 
+        Nombre: Leonardo, 
+        Apellido: Sanchez, 
+        Email: lsanchez@utn.com"
+        
+02:22:34 PM:DEBUG [persona_dao.py:86] Personas actualizadas: 0
+02:30:57 PM:DEBUG [conexion.py:35] Conexión a la base de datos test_bd exitosa.
+02:30:57 PM:DEBUG [conexion.py:49] Cursor obtenido exitosamente: <cursor object at 0x0000020D4752EDC0; closed: 0>
+02:30:57 PM:DEBUG [persona_dao.py:78] Persona eliminada con ID: 6
+02:30:57 PM:DEBUG [persona_dao.py:86] Personas eliminadas: 0
+02:31:30 PM:DEBUG [conexion.py:35] Conexión a la base de datos test_bd exitosa.
+02:31:30 PM:DEBUG [conexion.py:49] Cursor obtenido exitosamente: <cursor object at 0x00000255C772EDC0; closed: 0>
+02:31:30 PM:DEBUG [persona_dao.py:78] Persona eliminada con ID: 6
+02:31:30 PM:DEBUG [persona_dao.py:86] Personas eliminadas: 0
+02:33:52 PM:DEBUG [conexion.py:35] Conexión a la base de datos test_bd exitosa.
+02:33:52 PM:DEBUG [conexion.py:49] Cursor obtenido exitosamente: <cursor object at 0x000001D55A01EDC0; closed: 0>
+02:33:52 PM:DEBUG [persona_dao.py:101] 
+        ID Persona: 1, 
+        Nombre: Jose Carlos, 
+        Apellido: Ramirez, 
+        Email: ramirezdev@example.com"
+        
+02:33:52 PM:DEBUG [persona_dao.py:101] 
+        ID Persona: 2, 
+        Nombre: Juan, 
+        Apellido: Pérez, 
+        Email: juan22@test.com"
+        
+02:33:52 PM:DEBUG [persona_dao.py:101] 
+        ID Persona: 7, 
+        Nombre: Maria, 
+        Apellido: Lopez, 
+        Email: maria22@test.com"
+        
+02:33:52 PM:DEBUG [persona_dao.py:101] 
+        ID Persona: 8, 
+        Nombre: Tomas, 
+        Apellido: Garcia, 
+        Email: tomas22@test.com"
+        
+02:33:52 PM:DEBUG [persona_dao.py:101] 
+        ID Persona: 10, 
+        Nombre: Juana, 
+        Apellido: Pérez, 
+        Email: juana14@test.com"
+        
+02:33:52 PM:DEBUG [persona_dao.py:101] 
+        ID Persona: 11, 
+        Nombre: Mariana, 
+        Apellido: Gonzalez, 
+        Email: mariana14@test.com"
+        
+02:33:52 PM:DEBUG [persona_dao.py:101] 
+        ID Persona: 12, 
+        Nombre: jorge, 
+        Apellido: Alonso Gomez, 
+        Email: alonsoad85@test.com"
+        
+02:33:52 PM:DEBUG [persona_dao.py:101] 
+        ID Persona: 13, 
+        Nombre: Alejo, 
+        Apellido: Alonso , 
+        Email: alonso8@test.com"
+        
