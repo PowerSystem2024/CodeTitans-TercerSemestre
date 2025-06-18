@@ -11,7 +11,7 @@ let ataqueJugador
 
 //Agreamos los eventos a los botones y funciones
 btnPersonajeJugador.addEventListener("click", seleccionarPersonajeJugador);
-
+//Agregamos los eventos a los botones de ataque
 let botonPunio = document.getElementById('btn-punio')
 botonPunio.addEventListener('click', ataquePunio)
 
@@ -52,6 +52,7 @@ function seleccionarPersonajeJugador() {
   }
 }
 
+//creamos las funciones de cada boton
 function ataquePunio(){
   ataqueJugador = 'Punio'
   combate(ataqueJugador, ataqueAleatorioEnemigo())
@@ -67,7 +68,7 @@ function ataqueBarrida(){
   ataqueJugador = 'Barrida'
   combate(ataqueJugador, ataqueAleatorioEnemigo())
 }
-
+//Funcion para aataque aleatorio enemigo
 function ataqueAleatorioEnemigo(){
   let ataqueAleatorio = aleatorio(1, 3)
   
@@ -88,7 +89,7 @@ function aleatorio(min, max){
 
 let vidasJugador = 3
 let vidasEnemigo = 3
-
+//funcion del combate
 function combate(ataqueJugador, ataqueEnemigo){
   
   if (ataqueJugador === ataqueEnemigo){

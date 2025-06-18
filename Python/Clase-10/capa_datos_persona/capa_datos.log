@@ -1,0 +1,1229 @@
+18:40:55:ERROR [logger_base.py:15] Mensaje a nivel error)]
+18:40:55:CRITICAL [logger_base.py:16] Mensaje a nivel critical)]
+19:02:32:ERROR [logger_base.py:15] Mensaje a nivel error)]
+19:02:32:CRITICAL [logger_base.py:16] Mensaje a nivel critical)]
+19:02:59:DEBUG [logger_base.py:12] Mensaje a nivel debug)]
+19:02:59:INFO [logger_base.py:13] Mensaje a nivel info)]
+19:02:59:WARNING [logger_base.py:14] Mensaje a nivel warning)]
+19:02:59:ERROR [logger_base.py:15] Mensaje a nivel error)]
+19:02:59:CRITICAL [logger_base.py:16] Mensaje a nivel critical)]
+19:05:25:DEBUG [logger_base.py:12] Mensaje a nivel debug)]
+19:05:25:INFO [logger_base.py:13] Mensaje a nivel info)]
+19:05:25:WARNING [logger_base.py:14] Mensaje a nivel warning)]
+19:05:25:ERROR [logger_base.py:15] Mensaje a nivel error)]
+19:05:25:CRITICAL [logger_base.py:16] Mensaje a nivel critical)]
+19:05:25:DEBUG [Persona.py:55] 
+        id_persona: 1
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+19:06:25:DEBUG [logger_base.py:12] Mensaje a nivel debug)]
+19:06:25:INFO [logger_base.py:13] Mensaje a nivel info)]
+19:06:25:WARNING [logger_base.py:14] Mensaje a nivel warning)]
+19:06:25:ERROR [logger_base.py:15] Mensaje a nivel error)]
+19:06:25:CRITICAL [logger_base.py:16] Mensaje a nivel critical)]
+19:06:25:DEBUG [Persona.py:55] 
+        id_persona: 1
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+19:07:18:DEBUG [logger_base.py:12] Mensaje a nivel debug)]
+19:07:18:INFO [logger_base.py:13] Mensaje a nivel info)]
+19:07:18:WARNING [logger_base.py:14] Mensaje a nivel warning)]
+19:07:18:ERROR [logger_base.py:15] Mensaje a nivel error)]
+19:07:18:CRITICAL [logger_base.py:16] Mensaje a nivel critical)]
+19:07:18:DEBUG [Persona.py:55] 
+        id_persona: 1
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+19:08:54:DEBUG [logger_base.py:12] Mensaje a nivel debug)]
+19:08:54:INFO [logger_base.py:13] Mensaje a nivel info)]
+19:08:54:WARNING [logger_base.py:14] Mensaje a nivel warning)]
+19:08:54:ERROR [logger_base.py:15] Mensaje a nivel error)]
+19:08:54:CRITICAL [logger_base.py:16] Mensaje a nivel critical)]
+19:08:54:DEBUG [Persona.py:55] 
+        id_persona: 1
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+19:08:54:DEBUG [Persona.py:57] 
+        id_persona: None
+        nombre: Jose
+        apellido: Lopez
+        email: ljose@gmail.com
+        )]
+19:30:01:DEBUG [logger_base.py:12] Mensaje a nivel debug)]
+19:30:01:INFO [logger_base.py:13] Mensaje a nivel info)]
+19:30:01:WARNING [logger_base.py:14] Mensaje a nivel warning)]
+19:30:01:ERROR [logger_base.py:15] Mensaje a nivel error)]
+19:30:01:CRITICAL [logger_base.py:16] Mensaje a nivel critical)]
+19:30:01:DEBUG [Persona.py:57] 
+        id_persona: 1
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+19:30:01:DEBUG [Persona.py:61] 
+        id_persona: None
+        nombre: Jose
+        apellido: Lopez
+        email: ljose@gmail.com
+        )]
+19:30:09:DEBUG [logger_base.py:12] Mensaje a nivel debug)]
+19:30:09:INFO [logger_base.py:13] Mensaje a nivel info)]
+19:30:09:WARNING [logger_base.py:14] Mensaje a nivel warning)]
+19:30:09:ERROR [logger_base.py:15] Mensaje a nivel error)]
+19:30:09:CRITICAL [logger_base.py:16] Mensaje a nivel critical)]
+19:30:09:DEBUG [Persona.py:57] 
+        id_persona: 1
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+19:30:09:DEBUG [Persona.py:61] 
+        id_persona: None
+        nombre: Jose
+        apellido: Lopez
+        email: ljose@gmail.com
+        )]
+19:30:09:DEBUG [Persona.py:63] 
+        id_persona: 1
+        nombre: None
+        apellido: None
+        email: None
+        )]
+21:56:12:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+21:56:12:INFO [logger_base.py:28] Mensaje a nivel info)]
+21:56:12:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+21:56:12:ERROR [logger_base.py:30] Mensaje a nivel error)]
+21:56:12:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+21:56:12:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001D3D7E10E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+21:57:22:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+21:57:22:INFO [logger_base.py:28] Mensaje a nivel info)]
+21:57:22:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+21:57:22:ERROR [logger_base.py:30] Mensaje a nivel error)]
+21:57:22:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+21:57:22:ERROR [Conexion.py:35] Error conectando conexion: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte)]
+22:00:31:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+22:00:31:INFO [logger_base.py:28] Mensaje a nivel info)]
+22:00:31:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+22:00:31:ERROR [logger_base.py:30] Mensaje a nivel error)]
+22:00:31:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+22:00:31:ERROR [Conexion.py:35] Error conectando conexion: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte)]
+22:10:56:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+22:10:56:INFO [logger_base.py:28] Mensaje a nivel info)]
+22:10:56:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+22:10:56:ERROR [logger_base.py:30] Mensaje a nivel error)]
+22:10:56:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+22:10:56:ERROR [Conexion.py:35] Error conectando conexion: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte)]
+22:11:05:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+22:11:05:INFO [logger_base.py:28] Mensaje a nivel info)]
+22:11:05:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+22:11:05:ERROR [logger_base.py:30] Mensaje a nivel error)]
+22:11:05:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+22:11:05:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001A637F40E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+22:11:46:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+22:11:46:INFO [logger_base.py:28] Mensaje a nivel info)]
+22:11:46:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+22:11:46:ERROR [logger_base.py:30] Mensaje a nivel error)]
+22:11:46:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+22:11:46:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000023631520E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+22:11:58:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+22:11:58:INFO [logger_base.py:28] Mensaje a nivel info)]
+22:11:58:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+22:11:58:ERROR [logger_base.py:30] Mensaje a nivel error)]
+22:11:58:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+22:11:58:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001BB1E620E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+22:12:17:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+22:12:17:INFO [logger_base.py:28] Mensaje a nivel info)]
+22:12:17:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+22:12:17:ERROR [logger_base.py:30] Mensaje a nivel error)]
+22:12:17:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+22:12:17:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001D9F22A0E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+22:13:16:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+22:13:16:INFO [logger_base.py:28] Mensaje a nivel info)]
+22:13:16:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+22:13:16:ERROR [logger_base.py:30] Mensaje a nivel error)]
+22:13:16:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+22:13:16:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x00000270941F0E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+22:14:46:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+22:14:46:INFO [logger_base.py:28] Mensaje a nivel info)]
+22:14:46:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+22:14:46:ERROR [logger_base.py:30] Mensaje a nivel error)]
+22:14:46:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+22:14:46:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000029AFE930E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+22:17:50:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+22:17:50:INFO [logger_base.py:28] Mensaje a nivel info)]
+22:17:50:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+22:17:50:ERROR [logger_base.py:30] Mensaje a nivel error)]
+22:17:50:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+22:17:50:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000025B96290E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+14:21:53:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+14:21:53:INFO [logger_base.py:28] Mensaje a nivel info)]
+14:21:53:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+14:21:53:ERROR [logger_base.py:30] Mensaje a nivel error)]
+14:21:53:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+14:21:53:DEBUG [Persona.py:57] 
+        id_persona: 1
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+14:21:53:DEBUG [Persona.py:61] 
+        id_persona: None
+        nombre: Jose
+        apellido: Lopez
+        email: ljose@gmail.com
+        )]
+14:21:53:DEBUG [Persona.py:63] 
+        id_persona: 1
+        nombre: None
+        apellido: None
+        email: None
+        )]
+16:22:04:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:22:04:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:22:04:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:22:04:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:22:04:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:22:04:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000023010410BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:22:04:ERROR [Conexion.py:50] Error conectando conexion: type object 'Conexion' has no attribute '_obtenerConexion')]
+16:23:14:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:23:14:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:23:14:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:23:14:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:23:14:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:23:15:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001C277E90E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:23:20:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:23:20:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:23:20:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:23:20:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:23:20:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:23:20:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000020768180BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:23:20:ERROR [Conexion.py:50] Error conectando conexion: type object 'Conexion' has no attribute '_obtenerConexion')]
+16:25:15:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:25:15:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:25:15:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:25:15:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:25:15:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:25:15:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000028195660BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:25:15:ERROR [Conexion.py:50] Error conectando conexion: type object 'Conexion' has no attribute '_obtenerConexion')]
+16:25:37:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:25:37:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:25:37:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:25:37:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:25:37:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:25:37:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001D331D90BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:25:37:ERROR [Conexion.py:50] Error conectando conexion: type object 'Conexion' has no attribute '_obtenerConexion')]
+16:27:54:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:27:54:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:27:54:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:27:54:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:27:54:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:27:54:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001EDA7BD0E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:34:26:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:34:26:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:34:26:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:34:26:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:34:26:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:34:26:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001FB34570BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:34:26:ERROR [Conexion.py:50] Error conectando conexion: type object 'Conexion' has no attribute '_obtenerConexion')]
+16:35:29:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:35:29:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:35:29:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:35:29:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:35:29:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:35:29:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001C5619F0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:39:53:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:39:53:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:39:53:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:39:53:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:39:53:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:39:53:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x00000215343A0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:39:53:ERROR [Conexion.py:50] Error conectando conexion: type object 'Conexion' has no attribute '_obtenerConexion')]
+16:40:57:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:40:57:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:40:57:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:40:57:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:40:57:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:40:57:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x00000266AD4B0E10; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:41:01:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:41:01:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:41:01:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:41:01:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:41:01:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:41:01:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001C738500BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:41:01:DEBUG [Conexion.py:47] Se abrio correctamente el cursor: <cursor object at 0x000001C7385A2880; closed: 0>)]
+16:51:58:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:51:58:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:51:58:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:51:58:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:51:58:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:51:58:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001B49C050BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:53:05:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:53:05:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:53:05:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:53:05:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:53:05:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:53:05:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000024B9BA60BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:53:22:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+16:53:22:INFO [logger_base.py:28] Mensaje a nivel info)]
+16:53:22:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+16:53:22:ERROR [logger_base.py:30] Mensaje a nivel error)]
+16:53:22:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+16:53:22:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001BC20E20BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 4
+        nombre: Juan Carlos
+        apellido: Roldan
+        email: rcarlos@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 6
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 8
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 9
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 11
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 12
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 13
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 14
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 15
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 16
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 17
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 18
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 19
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 24
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 25
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 26
+        nombre: Juan
+        apellido: Lopez
+        email: jlopez@gmail.com
+        )]
+16:53:22:DEBUG [persona_dao.py:38] 
+        id_persona: 27
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+17:59:46:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+17:59:46:INFO [logger_base.py:28] Mensaje a nivel info)]
+17:59:46:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+17:59:46:ERROR [logger_base.py:30] Mensaje a nivel error)]
+17:59:46:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+17:59:46:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001473AED0AE0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+17:59:46:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:57] Personas insertadas: 1)]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 4
+        nombre: Juan Carlos
+        apellido: Roldan
+        email: rcarlos@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 6
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 8
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 9
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 11
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 12
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 13
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 14
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 15
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 16
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 17
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 18
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 19
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 24
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 25
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 26
+        nombre: Juan
+        apellido: Lopez
+        email: jlopez@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 27
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+17:59:46:DEBUG [persona_dao.py:63] 
+        id_persona: 28
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:02:20:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:02:20:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:02:20:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:02:20:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:02:20:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:02:20:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000002BBB1090BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:02:20:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:02:20:DEBUG [persona_dao.py:66] Personas insertadas: 1)]
+18:04:16:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:04:16:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:04:16:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:04:16:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:04:16:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:04:16:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000026028570BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:04:16:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:04:16:DEBUG [persona_dao.py:66] Personas insertadas: 1)]
+18:04:42:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:04:42:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:04:42:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:04:42:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:04:42:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:04:42:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000025CD98E0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:04:42:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:66] Personas insertadas: 1)]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 4
+        nombre: Juan Carlos
+        apellido: Roldan
+        email: rcarlos@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 6
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 8
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 9
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 11
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 12
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 13
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 14
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 15
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 16
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 17
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 18
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 19
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 24
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 25
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 26
+        nombre: Juan
+        apellido: Lopez
+        email: jlopez@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 27
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 28
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 29
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 30
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:04:42:DEBUG [persona_dao.py:78] 
+        id_persona: 31
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:06:24:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:06:24:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:06:24:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:06:24:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:06:24:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:06:24:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x00000171712E0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:06:24:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:06:24:DEBUG [persona_dao.py:66] Personas insertadas: 1)]
+18:09:24:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:09:24:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:09:24:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:09:24:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:09:24:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:09:24:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001BCFF330BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:09:24:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:09:24:DEBUG [persona_dao.py:66] Personas insertadas: 1)]
+18:10:00:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:10:00:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:10:00:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:10:00:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:10:00:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:10:00:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x00000166E5710BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:10:00:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:66] Personas insertadas: 1)]
+18:10:00:DEBUG [persona_dao.py:58] Persona Actualizada: 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:71] Personas actualizadas: 1)]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 6
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 8
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 9
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 11
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 12
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 13
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 14
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 15
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 16
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 17
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 18
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 19
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 24
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 25
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 26
+        nombre: Juan
+        apellido: Lopez
+        email: jlopez@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 27
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 28
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 29
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 30
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 31
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 32
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 33
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:10:00:DEBUG [persona_dao.py:78] 
+        id_persona: 34
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:12:53:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:12:53:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:12:53:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:12:53:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:12:53:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:12:53:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001F0ED420BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:12:53:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:12:53:DEBUG [persona_dao.py:74] Personas insertadas: 1)]
+18:12:53:DEBUG [persona_dao.py:58] Persona Actualizada: 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:12:53:DEBUG [persona_dao.py:79] Personas actualizadas: 1)]
+18:14:04:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:14:04:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:14:04:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:14:04:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:14:04:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:14:04:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001A03B690BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:14:04:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:14:04:DEBUG [persona_dao.py:74] Personas insertadas: 1)]
+18:14:04:DEBUG [persona_dao.py:58] Persona Actualizada: 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:14:04:DEBUG [persona_dao.py:79] Personas actualizadas: 1)]
+18:16:01:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:16:01:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:16:01:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:16:01:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:16:01:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:16:01:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x00000230F1EC0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:16:01:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:16:01:DEBUG [persona_dao.py:74] Personas insertadas: 1)]
+18:16:01:DEBUG [persona_dao.py:58] Persona Actualizada: 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:16:01:DEBUG [persona_dao.py:79] Personas actualizadas: 1)]
+18:16:47:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:16:47:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:16:47:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:16:47:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:16:47:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:16:47:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000001B910910BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:16:47:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:16:47:DEBUG [persona_dao.py:74] Personas insertadas: 1)]
+18:16:47:DEBUG [persona_dao.py:58] Persona Actualizada: 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:16:47:DEBUG [persona_dao.py:79] Personas actualizadas: 1)]
+18:17:18:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:17:18:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:17:18:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:17:18:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:17:18:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:17:18:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000002160F0F0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:17:18:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:17:18:DEBUG [persona_dao.py:74] Personas insertadas: 1)]
+18:17:18:DEBUG [persona_dao.py:58] Persona Actualizada: 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:17:18:DEBUG [persona_dao.py:79] Personas actualizadas: 1)]
+18:18:28:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:18:28:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:18:28:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:18:28:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:18:28:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:18:28:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000002D5708A0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:18:28:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:18:28:DEBUG [persona_dao.py:74] Personas insertadas: 1)]
+18:18:28:DEBUG [persona_dao.py:58] Persona Actualizada: 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:18:28:DEBUG [persona_dao.py:79] Personas actualizadas: 1)]
+18:19:03:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:19:03:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:19:03:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:19:03:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:19:03:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:19:03:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x0000020A39770BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:19:03:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:19:03:DEBUG [persona_dao.py:75] Personas insertadas: 1)]
+18:19:03:DEBUG [persona_dao.py:58] Persona Actualizada: 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:19:03:DEBUG [persona_dao.py:80] Personas actualizadas: 1)]
+18:20:41:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+18:20:41:INFO [logger_base.py:28] Mensaje a nivel info)]
+18:20:41:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+18:20:41:ERROR [logger_base.py:30] Mensaje a nivel error)]
+18:20:41:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+18:20:41:DEBUG [Conexion.py:31] Conexion establecida<connection object at 0x000002B82E4C0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=localhost port=5432', closed: 0>)]
+18:20:41:DEBUG [persona_dao.py:49] Persona Insertada: 
+        id_persona: None
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:75] Personas insertadas: 1)]
+18:20:41:DEBUG [persona_dao.py:58] Persona Actualizada: 
+        id_persona: 4
+        nombre: Juan
+        apellido: Perez
+        email: jperez@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:80] Personas actualizadas: 1)]
+18:20:41:DEBUG [persona_dao.py:67] Persona Eliminada: 
+        id_persona: 4
+        nombre: None
+        apellido: None
+        email: None
+        )]
+18:20:41:DEBUG [persona_dao.py:85] Personas eliminadas: 1)]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 6
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 8
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 9
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 11
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 12
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 13
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 14
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 15
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 16
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 17
+        nombre: Carlos
+        apellido: Lara
+        email: clara@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 18
+        nombre: Marcos
+        apellido: Canto
+        email: mcanto@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 19
+        nombre: Marcelo
+        apellido: Cuenca
+        email: cuencaM@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 24
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 25
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 26
+        nombre: Juan
+        apellido: Lopez
+        email: jlopez@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 27
+        nombre: Maria
+        apellido: Esparza
+        email: mesparza@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 28
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 29
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 30
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 31
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 32
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 33
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 34
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 35
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 36
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 37
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 38
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 39
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 40
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 41
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+18:20:41:DEBUG [persona_dao.py:90] 
+        id_persona: 42
+        nombre: Pedro
+        apellido: Romero
+        email: promero@gmail.com
+        )]
+17:07:18:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+17:07:18:INFO [logger_base.py:28] Mensaje a nivel info)]
+17:07:18:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+17:07:18:ERROR [logger_base.py:30] Mensaje a nivel error)]
+17:07:18:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+17:09:31:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+17:09:31:INFO [logger_base.py:28] Mensaje a nivel info)]
+17:09:31:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+17:09:31:ERROR [logger_base.py:30] Mensaje a nivel error)]
+17:09:31:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+17:09:31:ERROR [Conexion.py:51] Error al obtener el pool: module 'psycopg2' has no attribute 'SimpleConnectionPool')]
+17:15:55:DEBUG [logger_base.py:27] Mensaje a nivel debug)]
+17:15:55:INFO [logger_base.py:28] Mensaje a nivel info)]
+17:15:55:WARNING [logger_base.py:29] Mensaje a nivel warning)]
+17:15:55:ERROR [logger_base.py:30] Mensaje a nivel error)]
+17:15:55:CRITICAL [logger_base.py:31] Mensaje a nivel critical)]
+17:15:55:DEBUG [Conexion.py:67] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000024F94FC5160>)]
+17:15:55:DEBUG [Conexion.py:47] Conexion obtenida del pool: <connection object at 0x0000024F94F6FAB0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>)]
+17:15:55:DEBUG [Conexion.py:47] Conexion obtenida del pool: <connection object at 0x0000024F94F6E350; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>)]
