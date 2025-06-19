@@ -10,27 +10,25 @@
     <h1>AVATAR 🔥💧🌱🌪</h1>
     <section class="seleccionar-personaje" id="seleccionar-personaje">
       <h2>Elige tu personaje</h2>
-
-      <label for="zuko">Zuko</label>
-      <!-- label para darle un indicador a los usuarios de lo que pueden seleccionar -->
+      
       <input type="radio" name="personaje" id="zuko" />
       <!-- name es para agrupar todos los "inputs" y poder seleccionar  -->
-
+      <label for="zuko">Zuko</label>
+      <!-- label para darle un indicador a los usuarios de lo que pueden seleccionar -->
+      
+      <input type="radio" name="personaje" id="katara" /><!--   -->
       <label for="katara">Katara</label
       ><!-- for ayuda a vincular un label con un input por medio del id -->
-      <input type="radio" name="personaje" id="katara" /><!--   -->
-
+      
+      <input type="radio" name="personaje" id="toph"/>
       <label for="toph">Toph</label>
       <!--   -->
-      <input type="radio" name="personaje" id="toph" /><!--   -->
-
-      <label for="aang">Aang</label
-      ><!--   -->
-      <input
-        type="radio"
-        name="personaje"
-        id="aang"
-      /><!-- le damos un id para saber cual es el valor de cada uno   -->
+      
+      <input type="radio" name="personaje" id="aang"/>
+      <!-- le damos un id para saber cual es el valor de cada uno   -->
+      <label for="aang">Aang</label>
+      
+      
 
       <button id="btn-personaje">Seleccionar</button>
     </section>
@@ -39,19 +37,18 @@
       <h2>Elige tu ataque</h2>
       <p>
         Tu personaje <span id="personaje-jugador"></span> tiene
-        <span>3</span> vidas
+        <span id="vidas-jugador">3</span> vidas
       </p>
       <p>
         El personaje <span id="personaje-enemigo"></span> enemigo tiene
-        <span>3</span> vidas
+        <span id="vidas-enemigo">3</span> vidas
       </p>
       <p>
         Elige un ataque:
         <br />
-        <button id="btn-fuego">Fuego 🔥</button>
-        <button id="btn-agua">Agua 💧</button>
-        <button id="btn-tierra">Tierra 🌱</button>
-        <button id="btn-aire">Aire 🌪</button>
+        <button id="btn-punio">Punio 👊</button>
+        <button id="btn-patada">Patada 🦶</button>
+        <button id="btn-barrida">Barrida 👣</button>
       </p>
     </section>
 
