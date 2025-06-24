@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clase03/AutoboxingUnboxing/AutoboxingUnboxing.iml" filepath="$PROJECT_DIR$/Clase03/AutoboxingUnboxing/AutoboxingUnboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase01/Clase01.iml" filepath="$PROJECT_DIR$/Clase01/Clase01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase02/Clase02.iml" filepath="$PROJECT_DIR$/Clase02/Clase02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase07/Clase07.iml" filepath="$PROJECT_DIR$/Clase07/Clase07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase09/Clase09.iml" filepath="$PROJECT_DIR$/Clase09/Clase09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeTitans-TercerSemestre.iml" filepath="$PROJECT_DIR$/CodeTitans-TercerSemestre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase03/ForEach/ForEach.iml" filepath="$PROJECT_DIR$/Clase03/ForEach/ForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase03/Modificadoresdeacceso/Modificadoresdeacceso.iml" filepath="$PROJECT_DIR$/Clase03/Modificadoresdeacceso/Modificadoresdeacceso.iml" />
+    </modules>
+  </component>
+</project>
