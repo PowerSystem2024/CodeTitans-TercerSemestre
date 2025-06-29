@@ -1,0 +1,36 @@
+# Importamos Psycopg2 es una librería de Python que sirve como un adaptador para conectarse y trabajar con bases de datos PostgreSQL
+import psycopg2 
+import os # Importamos el módulo os para acceder a las variables de entorno
+from dotenv import load_dotenv # Importamos load_dotenv para cargar las variables de entorno desde el archivo .env
+
+# Cargamos las variables de entorno desde el archivo .env
+load_dotenv()
+
+# Conectamos a la base de datos
+conexion = psycopg2.connect(
+    user=os.getenv("DB_USER"),
+    password=os.getenv("DB_PASSWORD"),
+    host=os.getenv("DB_HOST"),
+    port=os.getenv("DB_PORT"),
+    database=os.getenv("DB_NAME")
+)
+    
+print(conexion)
+try:
+    with conexion:
+        with conexion.cursor() as cursor:
+            sentencia = "DELETE FROM persona WHERE id_persona=%s" # Definimos la sentencia SQL para eliminar datos en la tabla persona
+            entrada = input("¿Qué id_persona deseas eliminar? ") # Solicitamos al usuario el id_persona a eliminar
+            valores = (entrada,) # Creamos una tupla con el id_persona a eliminar
+            cursor.execute(sentencia, valores) # Ejecutamos la consulta
+            resultado_eliminados = cursor.rowcount # Obtenemos el número de filas insertadas
+            print(f"Se ha eliminado {resultado_eliminados} registro en la tabla") 
+                      
+except Exception as e:
+    print(f"Error de conexión detallado: {e}")
+finally:
+    conexion.close() # Cerramos la conexión a la base de datos
+
+
+
+
