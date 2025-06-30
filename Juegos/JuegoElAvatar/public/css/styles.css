@@ -24,3 +24,19 @@ body {
   position: relative;
   z-index: 1;
 }
+
+#seleccionar-personaje {
+  display: none;
+}
+
+#seleccionar-ataque {
+  display: none;
+}
+
+#mensajes {
+  display: none;
+}
+
+#reiniciar {
+  display: none;
+}

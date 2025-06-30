@@ -8,27 +8,66 @@
   </head>
   <body>
     <h1>AVATAR 🔥💧🌱🌪</h1>
+
+    <!-- Sección Inicio -->
+    <section id="inicio">
+      <button id="btn-jugar">Jugar</button>
+      <button id="btn-reglas" onclick="toggleReglas()">
+        📋 Ver Reglas del Juego
+      </button>
+      <div id="contenido-reglas" style="display: none">
+        <h3>🎮 Reglas del Juego:</h3>
+        <ol>
+          <li>
+            <strong>Primer paso:</strong> Selecciona tu personaje favorito
+            (Zuko, Katara, Toph o Aang)
+          </li>
+          <li>
+            <strong>Vidas:</strong> Tanto vos como el enemigo tienen 3 vidas
+          </li>
+          <li>
+            <strong>Combate:</strong> Elige tu ataque y el enemigo elegirá uno
+            aleatorio
+          </li>
+        </ol>
+        <h4>⚔️ Reglas de combate:</h4>
+        <ul>
+          <li>
+            👊 <strong>Puño</strong> le gana a 🤼‍♂️ <strong>Barrida</strong>
+          </li>
+          <li>🦿 <strong>Patada</strong> le gana a 👊 <strong>Puño</strong></li>
+          <li>
+            🤼‍♂️ <strong>Barrida</strong> le gana a 🦿 <strong>Patada</strong>
+          </li>
+          <li>🤝 Si ambos eligen lo mismo = <strong>EMPATE</strong></li>
+        </ul>
+        <p><strong>Que gane el mejor Titan!</strong></p>
+      </div>
+    </section>
+
     <section class="seleccionar-personaje" id="seleccionar-personaje">
       <h2>Elige tu personaje</h2>
-      
-      <input type="radio" name="personaje" id="zuko" />
-      <!-- name es para agrupar todos los "inputs" y poder seleccionar  -->
+
       <label for="zuko">Zuko</label>
       <!-- label para darle un indicador a los usuarios de lo que pueden seleccionar -->
-      
-      <input type="radio" name="personaje" id="katara" /><!--   -->
+      <input type="radio" name="personaje" id="zuko" />
+      <!-- name es para agrupar todos los "inputs" y poder seleccionar  -->
+
       <label for="katara">Katara</label
       ><!-- for ayuda a vincular un label con un input por medio del id -->
-      
-      <input type="radio" name="personaje" id="toph"/>
+      <input type="radio" name="personaje" id="katara" /><!--   -->
+
       <label for="toph">Toph</label>
       <!--   -->
-      
-      <input type="radio" name="personaje" id="aang"/>
-      <!-- le damos un id para saber cual es el valor de cada uno   -->
-      <label for="aang">Aang</label>
-      
-      
+      <input type="radio" name="personaje" id="toph" /><!--   -->
+
+      <label for="aang">Aang</label
+      ><!--   -->
+      <input
+        type="radio"
+        name="personaje"
+        id="aang"
+      /><!-- le damos un id para saber cual es el valor de cada uno   -->
 
       <button id="btn-personaje">Seleccionar</button>
     </section>
@@ -46,18 +85,16 @@
       <p>
         Elige un ataque:
         <br />
-        <button id="btn-punio">Punio 👊</button>
-        <button id="btn-patada">Patada 🦶</button>
-        <button id="btn-barrida">Barrida 👣</button>
+
+        <button id="btn-puño">Puño 👊🏼</button>
+        <button id="btn-patada">Patada 🦿</button>
+        <button id="btn-barrida">Barrida 🤼‍♂️</button>
       </p>
     </section>
 
     <!-- Mensaje dinamico -->
     <section id="mensajes">
-      <p>
-        Tu personaje ataco con todo el poder del FUEGO, el personaje del enemigo
-        ataco con el medio poder de la TIERRA - GANASTES 🎉
-      </p>
+      <p></p>
     </section>
 
     <section id="reiniciar">
